@@ -28,10 +28,10 @@ I'm actively open to international collaborations as:
 
 ## 🌐 More about me
 
-- Personal website: [jetervaz.com](https://jetervaz.com)
-- LinkedIn: [linkedin.com/in/jetersil](https://www.linkedin.com/in/jetersilveira)
-- Instagram: [instagram.com/jetervaz](https://www.instagram.com/jetervaz/)
-- Contact: jetervaz@gmail.com
+- 🌐 [jetervaz.com](https://jetervaz.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jetersilveira)
+- 📷 [Instagram](https://www.instagram.com/jetervaz/)
+- 📫 jetervaz@gmail.com
 
 ---
 
