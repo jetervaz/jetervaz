@@ -7,9 +7,12 @@ I design and build SaaS products combining data scraping, legal tech, and compli
 ## 🚀 My Projects
 
 - **[Registro Rural](https://www.registrorural.com.br)** — SaaS platform for regulatory rural property data & compliance (MRR $35k+).
-- **[Causa Na Justiça](https://causanajustica.com.br)** — Judicial process tracking and public notifications monitoring.
 - **[Envio Contábil](https://enviocontabil.com.br)** — Simplifying document exchange between businesses and accountants.
 - **[Kronika.tech](https://kronika.tech)** — My personal holding for SaaS experiments and side projects.
+
+## 🛠️ Open Source
+
+- **[dji-telemetry](https://github.com/jetervaz/dji-telemetry)** — Python library to parse DJI drone SRT telemetry files, export to CSV/JSON/GPX, and overlay flight data onto video footage. Available on [PyPI](https://pypi.org/project/dji-telemetry/).
 
 ## 🔧 Tech Stack
 
